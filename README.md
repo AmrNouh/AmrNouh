@@ -34,7 +34,7 @@
 <div align="center">
 </a>
 <a href="https://drive.google.com/uc?export=download&id=1Swvh7c6ZPgsHyyx7ffTLfdPcXauEavTB" target="_blank">
-<img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;margin-top: 10px;" />
 </a>
 </div>
 
