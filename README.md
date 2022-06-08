@@ -1,1 +1,1 @@
-
+<img src="https://github.com/AmrNouh/AmrNouh/blob/main/My%20Cover.gifhttps://github.com/AmrNouh/AmrNouh/blob/main/My%20Cover.gif" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
