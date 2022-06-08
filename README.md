@@ -30,7 +30,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+<div align="center">
+</a>
+<a href="https://drive.google.com/uc?export=download&id=1Swvh7c6ZPgsHyyx7ffTLfdPcXauEavTB" target="_blank">
+<img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <br/>  
 
@@ -137,7 +143,6 @@ DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021
 
 ## GITHUB STATUS  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNouh&hide_border=true&layout=compact" align="left" />  
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmrNouh&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />
