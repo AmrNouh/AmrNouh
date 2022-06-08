@@ -129,7 +129,7 @@ Information, Menoufia University.
 
 ## WORK EXPERIENCE  
 - **Junior Microsoft Desktop Solution Developer**  
-#### DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021  
+DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021  
   
 
 <br/>  
