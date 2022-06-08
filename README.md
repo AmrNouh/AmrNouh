@@ -114,10 +114,10 @@ experience.
 - **Professional Postgraduate Diploma, 9-Month Program.**  
   
 
-<div align="center">Professional Web Development and BI Track.</div>  
+Professional Web Development and BI Track.  
   
 
-<div align="center">Information Technology Institute (ITI), Menofia Branch.</div>  
+Information Technology Institute (ITI), Menofia Branch.  
   
 
 ##### <div align="right">Sep 2016 - May 2020</div>  
@@ -126,8 +126,8 @@ experience.
 - **B.Sc. in Computer Science**  
   
 
-<div align="center">Computer Science department, Faculty of Computer and
-Information, Menoufia University.</div>  
+Computer Science department, Faculty of Computer and
+Information, Menoufia University.  
   
 
 <br/>  
@@ -137,13 +137,14 @@ Information, Menoufia University.</div>
 - **Junior Microsoft Desktop Solution Developer**  
   
 
-#### <div align="center">DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021</div>  
+#### DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021  
   
 
 <br/>  
 
 
 ## GITHUB STATUS  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNouh&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrNouh&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmrNouh&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=AmrNouh&show_icons=true&count_private=true&hide_border=true" align="left" />
+<br />
