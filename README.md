@@ -112,11 +112,7 @@ experience.
   
 
 - **Professional Postgraduate Diploma, 9-Month Program.**  
-  
-
-Professional Web Development and BI Track.  
-  
-
+Professional Web Development and BI Track.
 Information Technology Institute (ITI), Menofia Branch.  
   
 
