@@ -31,10 +31,10 @@
 </a>  
 </div>  
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
 </a>
 <a href="https://drive.google.com/uc?export=download&id=1Swvh7c6ZPgsHyyx7ffTLfdPcXauEavTB" target="_blank">
-<img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;margin-top: 10px;" />
+<img src=https://img.shields.io/badge/Download-CV-red alt=MyCv style="margin-bottom: 5px;" />
 </a>
 </div>
 
