@@ -124,8 +124,6 @@ Information Technology Institute (ITI), Menofia Branch.
   
 
 - **B.Sc. in Computer Science**  
-  
-
 Computer Science department, Faculty of Computer and
 Information, Menoufia University.  
   
@@ -135,8 +133,6 @@ Information, Menoufia University.
 
 ## WORK EXPERIENCE  
 - **Junior Microsoft Desktop Solution Developer**  
-  
-
 #### DEXEF ERP SYSTEMS | MENOUFIA | Mar 2021 - Oct 2021  
   
 
